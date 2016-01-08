@@ -11,6 +11,7 @@
 * @doragon 
 * @ym19851201 
 * @hiddenKi 
+* @kiyo-hiko
 
 発表順は当日くじで決める予定です。
 
