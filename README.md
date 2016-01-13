@@ -4,7 +4,7 @@
 
 # Presenter
 
-* @yymm
+* @yymm 「レガシー案件でいかにモダンな開発をぶち込んでいくか」(仮)
 * @hashrock 
 * @sotoattanito 
 * @3100 
