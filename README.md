@@ -9,7 +9,7 @@
 * @sotoattanito 
 * @3100 
 * @doragon 
-* @ym19851201 
+* @ym19851201 「正解のない仕事における成果の出し方」(仮もいいところ)
 * @hiddenKi 
 * @kiyo-hiko
 
