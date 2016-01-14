@@ -8,7 +8,7 @@
 * @hashrock 
 * @sotoattanito 「後生だから意識していただきたい可視化の描き方」(仮？)
 * @3100 
-* @doragon 
+* @doragon 「GitLab in docker のバージョンアップをしてみた」
 * @ym19851201 「正解のない仕事における成果の出し方」(仮もいいところ)
 * @hiddenKi 
 * @kiyo-hiko
