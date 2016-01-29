@@ -6,7 +6,7 @@
 
 * @yymm 「レガシー案件でいかにモダンな開発をぶち込んでいくか」(仮)
 * @hashrock 
-* @sotoattanito 「後生だから意識していただきたい可視化の描き方」(仮？)
+* @sotoattanito 「後生だから意識していただきたい可視化」
 * @3100 
 * @doragon 「[Update GitLab in docker](http://doragon.github.io/presentation/devipl/20160203/)」
 * @ym19851201 「今さらのUnite.vim」
