@@ -4,7 +4,7 @@
 
 # Presenter
 
-* @yymm 「レガシー案件でいかにモダンな開発をしていくか」
+* @yymm [「レガシー案件でいかにモダンな開発をしていくか」](http://slides.com/yymm/deck#/ "DevIPL 2016 winter by yymm")
 * @hashrock 
 * @sotoattanito 「可視化を部品から理解する」
 * @3100 
