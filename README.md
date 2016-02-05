@@ -9,7 +9,7 @@
 * @sotoattanito 「可視化を部品から理解する」
 * @3100 
 * @doragon 「[Update GitLab in docker](http://doragon.github.io/presentation/devipl/20160203/)」
-* @ym19851201 「今さらのUnite.vim」
+* @ym19851201 「[今さらのUnite.vim](http://ym19851201.github.io/devipl_2016_presentation/)」
 * @hiddenKi 
 * @kiyo-hiko
 
