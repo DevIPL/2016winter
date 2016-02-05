@@ -5,7 +5,7 @@
 # Presenter
 
 * @yymm [「レガシー案件でいかにモダンな開発をしていくか」](http://slides.com/yymm/deck#/ "DevIPL 2016 winter by yymm")
-* @hashrock 「[CSS知らなかったこと // Speaker Deck](https://speakerdeck.com/hashrock/csszhi-ranakatutakoto "CSS知らなかったこと // Speaker Deck")」
+* @hashrock [「CSS知らなかったこと」](https://speakerdeck.com/hashrock/csszhi-ranakatutakoto "CSS知らなかったこと // Speaker Deck")
 * @sotoattanito 「可視化を部品から理解する」
 * @3100 
 * @doragon 「[Update GitLab in docker](http://doragon.github.io/presentation/devipl/20160203/)」
